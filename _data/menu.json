@@ -131,6 +131,12 @@
 				"name": "Academic Resources",
 				"has_subpages": false
 			},
+						{
+				"page": "AAscholarship",
+				"permalink": "/resources/AAscholarship",
+				"name": "Avery Anderson Friend in Meteorology Scholarship",
+				"has_subpages": false
+			},
 			{
 				"page": "scholarships",
 				"permalink": "/resources/scholarships",
@@ -173,7 +179,7 @@
 			{
 				"page": "photos-and-videos-of-the-month",
 				"permalink": "/gallery/PAVOTM",
-				"name": "Photos and Video of the Month",
+				"name": "Photos and Videos of the Month",
 				"has_subpages": false
 			},
 			{
