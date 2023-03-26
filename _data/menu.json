@@ -163,6 +163,33 @@
 			}
 		]
 	},
+	
+	{
+		"page": "gallery",
+		"permalink": "/gallery/",
+		"name": "Gallery",
+		"has_subpages": true,
+		"subpages": [
+			{
+				"page": "photos-and-videos-of-the-month",
+				"permalink": "/gallery/PAVOTM",
+				"name": "Photos and Video of the Month",
+				"has_subpages": false
+			},
+			{
+				"page": "photos-and-videos-of-the-year",
+				"permalink": "/gallery/PAVOTY",
+				"name": "Photos and Videos of the Year",
+				"has_subpages": false
+			},
+		        {
+                                "page": "scrapbook",
+                                "permalink": "/gallery/scrapbook",
+                                "name": "Yearly Scrapbooks",
+                                "has_subpages": false
+      			 },
+		]
+	},
 	{
 		"page": "news",
 		"permalink": "/news/",
@@ -175,12 +202,6 @@
 				"name": "Iowa State Weather",
 				"has_subpages": false
 			},
-		        {
-                                "page": "photo-gallery",
-                                "permalink": "/news/photo-gallery",
-                                "name": "Photo Gallery",
-                                "has_subpages": false
-      			 },
 			{
 				"page": "fundisu",
                                 "permalink": "/news/fundisu",
